@@ -1,0 +1,18 @@
+{
+  "name": "phantom-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phantom": "^6.3.0",
+    "system": "^2.0.1",
+    "web-vitals": "^2.1.4",
+    "webpage": "^0.3.0"
+  },
+  "type": "module"
+}
